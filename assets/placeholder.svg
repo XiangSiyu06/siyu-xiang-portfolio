@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Placeholder screenshot">
+  <rect width="800" height="450" fill="#e9edf2"/>
+  <rect x="1" y="1" width="798" height="448" fill="none" stroke="#c5ccd6" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="none" stroke="#a3adba" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="340" y="175" width="120" height="90" rx="8"/>
+    <circle cx="372" cy="203" r="10"/>
+    <path d="M352 255 L392 215 L418 241 L432 227 L448 243"/>
+  </g>
+  <text x="400" y="305" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" fill="#6b7684" text-anchor="middle">[TODO] Screenshot</text>
+</svg>
